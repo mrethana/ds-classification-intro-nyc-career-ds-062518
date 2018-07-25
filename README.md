@@ -22,47 +22,48 @@ For each of the following scenarios determine whether you would apply a regressi
 
 
 ```python
-#Regression or Classification?
+#Regression
 ```
 
 ### Determining a child's future career.
 
 
 ```python
-#Regression or Classification?
+#Classification
 ```
 
 ### Determining a car's brand.
 
 
 ```python
-#Regression or Classification?
+#Classification
 ```
 
 ### Determining a car's year.
 
 
 ```python
-#Regression or Classification?
+#Regression*
+#This one's a little bit tricky.....could potentially be either...but most likely regression would still be appropriate
 ```
 
 ### Determining a car's mileage.
 
 
 ```python
-#Regression or Classification?
+#Regression
 ```
 
 ### Determining a flower's color.
 
 
 ```python
-#Regression or Classification?
+#Classification
 ```
 
 ### Determining a flower's species.
 
 
 ```python
-#Regression or Classification?
+#Classification
 ```
