@@ -9,9 +9,9 @@ Here's some of the most important classification algorithms which we'll investig
 * Logistic Regression
     * Calculates the probability of class membership using the sigmoid function. Then assigns class membmership.
 * Decision Trees
-    * Splits the dataset feature by feature according to which feature will improve the accuracy of classification. For example, those with cholostorel > x have risk for heart disease, those below none, then onto another feature such as age. 
+    * Split the dataset feature by feature according to which feature will improve the accuracy of classification. For example, those with cholosterol higher than a certain value (to be specified using the tree algorithm) have risk for heart disease, those below that value don't incur a risk. Next, you can go onto another feature in the data set, such as age. 
 * Random Forests
-    * An ensemble method for combining multiple decision trees 
+    * An ensemble method for combining multiple decision trees.
 * Support Vector Machines
     * Draws a decision plane seperating the classes. Maximizes the distance between datapoints and this plane.
 
